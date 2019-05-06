@@ -2,7 +2,7 @@
 ### CS 634 - Prof Monogioudis
 
 ## Overview
-We will utilize the methods of machine learning to create a solution to the RSNA Pneumonia Detection Challenge. Through this final project for Dr. Monogloudis' Machine Learning class, we will create a solution to the RSNA Pneumonia Detection Challenge by applying the methods of machine learning to detect the presence of lung opacities given a digital image of a x-ray. 
+We will utilize the methods of machine learning to create a solution to the RSNA Pneumonia Detection Challenge for Dr. Monogloudis' Machine Learning class. We do this through the use of residual network convolutional neural networks to segment out lung opacities given a digital image of a x-ray. 
 
 The challenges we will face will be similar to the ones facing the radiologists and specialists in the clinical setting - the pneumonia digital signal is represented by an opaque area of a chest x-ray. This signal can be clouded by the noise of other pathologies or even poor x-rays of normal lungs. To tackle these issues, our solution takes the following steps:
 ## Running the notebook
