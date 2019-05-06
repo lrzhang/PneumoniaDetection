@@ -1,5 +1,5 @@
 # Detection of Pneumonia in Chest X-rays using Segmented CNN
-###RSNA Pneumonia Detection Competition on Kaggel
+### RSNA Pneumonia Detection Competition on Kaggel
 ### CS 634 - Prof Monogioudis
 
 ## Overview
