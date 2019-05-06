@@ -11,6 +11,7 @@ Using Google Colaboratory, import the Python notebook .ipynb file. Next Run All 
 
 ## Additional Files
 submission.csv - final predicted bounding boxes for pneumonia
+
 model training log.txt - log of the model training based on 10 epochs
 
 ## Built With
