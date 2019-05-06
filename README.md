@@ -8,7 +8,7 @@ The challenges we will face will be similar to the ones facing the radiologists 
 
 ## Running the notebook
 
-**All report write-up is within the python notebook.** Using Google Colaboratory, import the Python notebook .ipynb file. Next Run All segments (Runtime --> Run All). In the Files slider, you should now see a submission.csv. That is our prediction for the test data. 
+Using Google Colaboratory, import the Python notebook .ipynb file. Next Run All segments (Runtime --> Run All). In the Files slider, you should now see a submission.csv. That is our prediction for the test data. **All report write-up is within the python notebook.** 
 
 ## Additional Files
 submission.csv - final predicted bounding boxes for pneumonia
