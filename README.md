@@ -7,7 +7,7 @@ We will utilize the methods of machine learning to create a solution to the RSNA
 The challenges we will face will be similar to the ones facing the radiologists and specialists in the clinical setting - the pneumonia digital signal is represented by an opaque area of a chest x-ray. This signal can be clouded by the noise of other pathologies or even poor x-rays of normal lungs. To tackle these issues, our solution takes the following steps:
 ## Running the notebook
 
-Using Google Colaboratory, import the Python notebook .ipynb file. Next Run All segments (Runtime --> Run All). In the Files slider, you should now see a submission.csv. That is our prediction for the test data. 
+**All report write-up is within the python notebook.** Using Google Colaboratory, import the Python notebook .ipynb file. Next Run All segments (Runtime --> Run All). In the Files slider, you should now see a submission.csv. That is our prediction for the test data. 
 
 ## Additional Files
 submission.csv - final predicted bounding boxes for pneumonia
