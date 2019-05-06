@@ -20,7 +20,7 @@ model training log.txt - log of the model training based on 10 epochs
 
 ## Built With
 
-* Keras and Tensorflow - Machine learning framework used for CNN in our project
+* Keras and Tensorflow - CNN API and Machine learning framework used for CNN in our project
 * Matlabplot - Data analysis and visualization tool
 * Numpy - Mathematical framework used for linear algebra calculations
 * Pandas - Data analysis and visualization tool
