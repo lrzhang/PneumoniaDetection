@@ -9,6 +9,10 @@ The challenges we will face will be similar to the ones facing the radiologists 
 
 Using Google Colaboratory, import the Python notebook .ipynb file. Next Run All segments (Runtime --> Run All). In the Files slider, you should now see a submission.csv. That is our prediction for the test data. 
 
+## Additional Files
+submission.csv - final predicted bounding boxes for pneumonia
+model training log.txt - log of the model training based on 10 epochs
+
 ## Built With
 
 * Keras and Tensorflow - Machine learning framework used for CNN in our project
